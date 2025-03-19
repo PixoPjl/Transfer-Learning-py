@@ -42,8 +42,8 @@ Este repositório contém um projeto desenvolvido em Python (utilizando o VSCode
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/PixoPjl/Transfer-Learning-py/```
+   git clone https://github.com/PixoPjl/Transfer-Learning-py/
 
 2. **Instale as dependências:**
     ```bash
-    pip install -r requirements.txt```
+    pip install -r requirements.txt
